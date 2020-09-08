@@ -1,1 +1,1 @@
-New-Item -Path "c:\" -Name "logfiles" -ItemType "directory"
+New-Item -Path "c:\" -Name "Kiausinis" -ItemType "directory"
