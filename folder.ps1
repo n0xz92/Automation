@@ -1,1 +1,1 @@
-New-Item -Path "c:\" -Name "TestFolder" -ItemType "directory"
+New-Item -Path "c:\" -Name "Folder" -ItemType "directory"
