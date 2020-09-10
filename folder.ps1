@@ -1,1 +1,1 @@
-New-Item -Path "c:\" -Name "Folderis" -ItemType "directory"
+New-Item -Path "c:\" -Name "Folder" -ItemType "directory"
